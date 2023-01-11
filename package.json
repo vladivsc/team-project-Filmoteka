@@ -2,14 +2,14 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://github.com/Dmytro-Ivanenko/Project_7_Filmoteka",
+  "homepage": "https://github.com/vladivsc/team-project-Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Project_7_Filmoteka/"
+    "build": "parcel build src/*.html --public-url /team-project-Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dmytro-Ivanenko/Project_7_Filmoteka.git"
+    "url": "git@github.com:vladivsc/team-project-Filmoteka.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
